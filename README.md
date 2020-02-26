@@ -1,2 +1,2 @@
 # SpeechRecognition
-Simple speech recognition
+Simple speech recognition with python 2.7
